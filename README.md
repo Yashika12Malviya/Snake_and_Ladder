@@ -32,8 +32,3 @@ A classic Snakes and Ladders board game implemented in Java, demonstrating core 
 *   Land on a ladder base, climb to the top.
 *   Land on a snake head, slide to the tail.
 
-## Potential Enhancements
-
-*   Customizable board size and player count.
-*   Visual GUI using {Link: JavaFX https://github.com/swapnil-tanpure23/Snake-and-Ladder} or Swing.
-*   More complex rules (e.g., bouncing back from the end).
